@@ -1,8 +1,7 @@
-package domain;
+package com.rvittori.jpa.domain;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.springframework.data.annotation.Id;
 
 @Data
 @AllArgsConstructor
